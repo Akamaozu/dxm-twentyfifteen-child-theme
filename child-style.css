@@ -1,0 +1,16 @@
+#post-footer-widget-area {
+
+  padding: 2.4em;
+}
+
+  #post-footer-widget-area > form > #subscribe-text {
+
+    color: #707070;
+    margin-top: 1.5em;
+  }
+
+#disqus_thread {
+
+  margin: 0 10%;
+  margin-top: 2.5em;
+}
